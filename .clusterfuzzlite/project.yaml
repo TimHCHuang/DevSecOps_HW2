@@ -1,0 +1,9 @@
+disabled: true
+language: c++
+vendor_ccs: []
+
+fuzzing_engines:
+  - afl
+  - honggfuzz
+  - libfuzzer
+
